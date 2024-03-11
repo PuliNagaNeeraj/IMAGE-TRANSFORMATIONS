@@ -226,53 +226,30 @@ show_image(cropped_image)
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
+
 ![exp-4-1](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/9e854cec-0531-4873-8476-945094876aeb)
 
-
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
+
 ![exp-4-1 2](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/c0cf3d0a-c4c4-4680-a631-b435584284ee)
 
-
-
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
+
 ![exp-4-1 3](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/67f337b7-539f-4cd9-beec-cdc710ed05fd)
 
-
-
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
+
 ![horizontal-exp-4](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/7a17f006-afda-4396-acca-eeceb6dd52b0)
 ![vertical-exp-4](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/4aa4ea13-288c-4d44-94a7-cb55e0a69902)
 ![reflected-vertical-exp-4](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/7bbd5fa5-54bd-4c46-8d3e-7668fda9a9c0)
 ![both-exp-4](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/90bd718f-48b6-46af-9237-6e6b818c2a18)
 
 ### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
+
 ![exp-4-1 4](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/00d85bcd-f34b-49f4-972e-820de0e921d7)
 
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
+
 ![exp-4-1 5](https://github.com/PuliNagaNeeraj/IMAGE-TRANSFORMATIONS/assets/138849173/792d6a6e-f375-40be-8f9e-eef2497cf4af)
 
 

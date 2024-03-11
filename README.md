@@ -24,12 +24,13 @@ Continue the program by implementing the codes of required topics.
 Thus the program is executed in google colab.
 
 ## Program:
-```python
+```
+python
 Developed By: Puli Naga Neeraj
 Register Number: 212223240130
-
+```
 i)Image Translation
-
+```
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -58,9 +59,9 @@ print("Original Image:")
 show_image(image)
 print("Translated Image:")
 show_image(translated_image)
-
+```
 ii) Image Scaling
-
+```
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -88,9 +89,9 @@ print("original image")
 show_image(image)
 print("Scaled Image:")
 show_image(scaled_image)
-
+```
 iii)Image shearing
-
+```
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -121,9 +122,9 @@ print("Original Image:")
 show_image(image)
 print("Sheared Image:")
 show_image(sheared_image)
-
+```
 iv)Image Reflection
-
+```
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -157,9 +158,9 @@ print("Reflected Vertically:")
 show_image(reflected_image_vertical)
 print("Reflected Both:")
 show_image(reflected_image_both)
-
+```
 v)Image Rotation
-
+```
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -192,12 +193,12 @@ print("Original Image:")
 show_image(image)
 print("Rotated Image:")
 show_image(rotated_image)
-
+```
 vi)Image Cropping
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-
+```
 # Function to display images in Colab
 def show_image(image):
     plt.figure(figsize=(6, 6))
